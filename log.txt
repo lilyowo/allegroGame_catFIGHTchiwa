@@ -1,0 +1,14 @@
+There are total 2 supported mouse buttons
+Allegro5 initialized
+Game begin
+resized image: main-bg.png
+resized image: background.jpg
+Change scene from 0 to 1
+Game initialized
+Game start event loop
+Key with keycode 221 down
+Key with keycode 215 down
+Key with keycode 19 up
+Key with keycode 221 down
+Key with keycode 215 down
+Key with keycode 19 up
